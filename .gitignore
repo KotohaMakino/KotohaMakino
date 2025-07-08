@@ -1,2 +1,8 @@
 # Recruit Folder
-Recruit\Toshiba
+Recruit/*
+
+.python-version
+
+research/*
+
+venv
